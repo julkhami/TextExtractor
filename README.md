@@ -1,0 +1,2 @@
+# TextExtractor
+Text extractor is an application and tool for extracting the relevant text content from (ideally) any format of document. It comes with two parts: an interactive application which is itself designed to help facilitate the process of a custom extraction (you can more easily inspect source HTML, and point and click to manually specify what it is you'd like to keep), plus an auto-magic tool whose function is to guess, and make things easier.
